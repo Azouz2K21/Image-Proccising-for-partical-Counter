@@ -1,11 +1,5 @@
-This package contains example files from an Image Processing Webinar which was broadcast on March 4, 2004.  To see a recording of the webinar, please visit The MathWorks web site.  
-<http://www.mathworks.com/cmspro/online/6996/req.html?16228>
-
 The recording contains a lot of information, and shows how to do other common tasks with images, like explore image data using interactive tools, and acquire lives images from a camera directly into MATLAB.
 
-For the purpose of the webinar, the main goals were to show how to:
- (1) make a custom algorithm to analyze some image data, and
- (2) add a GUI (graphical user interface) for convenience reuse.
 
 The example used was a general task in image analysis - particle size analysis.  In this case an example image contains grains of rice.  The grains are light on a dark background, so thresholding is appropriate.  But because the background was nonuniformly illuminated, background removal is warranted to improve object segmentation.  Feature extraction allows the size of each grain to be quantified, in this case as area (number of pixels).  The size distribution is displayed using a histogram, and typical statistical values are measured (mean, median & standard deviation).
 
@@ -45,4 +39,4 @@ I sincerely hope you enjoy working with this example and find it useful.
 
 Robert Bemis
 Application Engineering
-rbemis@mathworks.com
+mo1122000azouz@gmail.com
